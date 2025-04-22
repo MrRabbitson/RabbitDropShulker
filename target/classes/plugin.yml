@@ -1,0 +1,6 @@
+name: RabbitDropShulker
+version: 1.0
+main: com.MrRabbitson.RabbitDropShulker.RabbitDropShulker
+api-version: 1.16
+authors: [MrRabbitson]
+description: Показывает боссбар при наличии шалкеров в инвентаре и заставляет их выпадать при выходе
